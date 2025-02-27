@@ -27,5 +27,20 @@ CLASE PRODUCTMAIN:
 ![image](https://github.com/user-attachments/assets/f03f72f9-1b34-4c31-956a-267825278718)
 
 
+DIRECTORIO 
+CONCRETE:
+
+![image](https://github.com/user-attachments/assets/3ebd4877-26a7-449c-83bc-2c203fffbf8f)
+
+
+CLASE StockService: 
+
+
+
+![image](https://github.com/user-attachments/assets/019b0cd1-56ed-49eb-b911-70f0f54ad6e1)
+
+
+
+
 
 
