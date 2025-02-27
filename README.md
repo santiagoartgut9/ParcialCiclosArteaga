@@ -4,7 +4,7 @@
 ESTRUCTURA DEL PROYECTO:
 
 
-![image](https://github.com/user-attachments/assets/bd363465-1fa1-4bc6-81b0-186208fa215b)
+
 
 inicializando spring initializr
 
