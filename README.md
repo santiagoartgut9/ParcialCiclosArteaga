@@ -10,6 +10,9 @@ inicializando spring initializr
 
 ![image](https://github.com/user-attachments/assets/a9c6f655-883f-4e20-bf2b-cb07f12bf2de)
 
+![image](https://github.com/user-attachments/assets/90e13f00-00ff-4300-a7e7-23e4661ec333)
+
+
 
 Creacion de clases:
 
