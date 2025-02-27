@@ -10,5 +10,11 @@ ESTRUCTURA DEL PROYECTO:
 
 Creacion de clases:
 
+CLASE PRODUCT:
 ![image](https://github.com/user-attachments/assets/bf1dd585-602c-4e23-84e1-b46c1b0bae8a)
+
+CLASE PRODUCTEGORY:
+
+![image](https://github.com/user-attachments/assets/bbdd2b9b-7ce9-487d-b9c7-ecff680bf6f1)
+
 
