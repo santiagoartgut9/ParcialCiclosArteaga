@@ -15,6 +15,17 @@ CLASE PRODUCT:
 
 CLASE PRODUCTEGORY:
 
-![image](https://github.com/user-attachments/assets/bbdd2b9b-7ce9-487d-b9c7-ecff680bf6f1)
+![image](https://github.com/user-attachments/assets/30addd7a-2c43-4ba5-aa69-7067da812f79)
+
+CLASEPRODUCTFACTORY:
+
+![image](https://github.com/user-attachments/assets/06cfa0f7-3b44-4ea0-9819-530e4801c1ff)
+
+
+CLASE PRODUCTMAIN:
+
+![image](https://github.com/user-attachments/assets/f03f72f9-1b34-4c31-956a-267825278718)
+
+
 
 
