@@ -6,6 +6,9 @@ ESTRUCTURA DEL PROYECTO:
 
 ![image](https://github.com/user-attachments/assets/bd363465-1fa1-4bc6-81b0-186208fa215b)
 
+inicializando spring initializr
+
+![image](https://github.com/user-attachments/assets/a9c6f655-883f-4e20-bf2b-cb07f12bf2de)
 
 
 Creacion de clases:
