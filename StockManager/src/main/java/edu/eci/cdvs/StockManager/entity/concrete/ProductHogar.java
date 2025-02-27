@@ -27,6 +27,7 @@ public class ProductHogar implements Product{
         return nombre;
     }
 
+
     @Override
     public int getCantidadDisponible() {
         return cantidadDisponible;
