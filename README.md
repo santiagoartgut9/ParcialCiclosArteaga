@@ -2,54 +2,7 @@
 
 
 ESTRUCTURA DEL PROYECTO:
-├───.mvn
-│   └───wrapper
-├───src
-│   ├───main
-│   │   ├───java
-│   │   │   └───edu
-│   │   │       └───eci
-│   │   │           └───cdvs
-│   │   │               └───StockManager
-│   │   │                   ├───controller
-│   │   │                   ├───entity
-│   │   │                   │   └───concrete
-│   │   │                   └───service
-│   │   └───resources
-│   └───test
-│       └───java
-│           └───edu
-│               └───eci
-│                   └───cdvs
-│                       └───StockManager
-└───target
-    ├───classes
-    │   └───edu
-    │       └───eci
-    │           └───cdvs
-    │               └───StockManager
-    │                   ├───controller
-    │                   ├───entity
-    │                   │   └───concrete
-    │                   └───service
-    ├───generated-sources
-    │   └───annotations
-    ├───generated-test-sources
-    │   └───test-annotations
-    ├───maven-archiver
-    ├───maven-status
-    │   └───maven-compiler-plugin
-    │       ├───compile
-    │       │   └───default-compile
-    │       └───testCompile
-    │           └───default-testCompile
-    ├───surefire-reports
-    └───test-classes
-        └───edu
-            └───eci
-                └───cdvs
-                    └───StockManager
-
+![image](https://github.com/user-attachments/assets/bd363465-1fa1-4bc6-81b0-186208fa215b)
 
 
 
