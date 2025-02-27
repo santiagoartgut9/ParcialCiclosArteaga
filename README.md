@@ -46,6 +46,28 @@ CLASE StockService:
 ![image](https://github.com/user-attachments/assets/019b0cd1-56ed-49eb-b911-70f0f54ad6e1)
 
 
+EJECUTANDO COMANDOS MVN :
+
+•	mvn compile:
+
+![image](https://github.com/user-attachments/assets/065ab645-a323-4470-80ba-c57c133f54a0)
+
+•	mvn test:
+
+![image](https://github.com/user-attachments/assets/3eb626cf-e4ae-4f8d-a570-a4dd7061eb59)
+
+•	mvn package:
+
+![image](https://github.com/user-attachments/assets/b22717b8-6398-4de0-8e63-95f16846e818)
+
+
+
+
+
+
+
+
+
 
 
 
